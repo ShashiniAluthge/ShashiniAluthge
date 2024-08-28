@@ -5,7 +5,7 @@
 
 <h3 align="center">IT Undergraduate @University of Moratuwa</h3>
 
-<hr/>
+<br/>
 
 - 👀 I’m interested in Mobile and Web App Development and UI designing
 
@@ -17,7 +17,9 @@
 
 - ⚡ Fun fact **I love sharing interesting posts on Facebook**
 
-
+<div align="center">
+  <img width="600" height="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
+</div>
 <hr/>
 
 

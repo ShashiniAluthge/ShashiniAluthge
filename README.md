@@ -7,7 +7,7 @@
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
   <div style="display: flex; flex-direction: column;">
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
     <p>🌱 I’m currently learning <strong>React.js</strong></p>
@@ -15,7 +15,7 @@
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
   </div>
-  <div>
+  <div style="flex: 1; max-width: 50%; display: flex; justify-content: center;align:">
     <img width="400" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
   </div>
 </div>

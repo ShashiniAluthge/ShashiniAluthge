@@ -18,12 +18,10 @@
 </div>
 
 <hr/>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img width="500" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashinialuthge&label=Profile%20views&color=0e75b6&style=flat" alt="shashinialuthge" /> </p>
-<hr/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

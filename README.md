@@ -7,14 +7,17 @@
 
 <br/>
 
-<div>
-  <div>
+<div >
+  <div align="left" >
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
     <p>🌱 I’m currently learning <strong>React.js</strong></p>
     <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
   </div>
+  <div align="center" >
+  <img width="400" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
+</div>
 </div>
 
 <hr/>

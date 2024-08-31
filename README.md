@@ -7,23 +7,24 @@
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px;">
-  <div style="display: flex; flex-direction: column;">
+<div>
+  <div>
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
     <p>🌱 I’m currently learning <strong>React.js</strong></p>
     <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
   </div>
-  <div style="flex: 1; max-width: 50%; display: flex; justify-content: center;align:">
-    <img width="400" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
-  </div>
 </div>
 
 <hr/>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img width="500" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashinialuthge&label=Profile%20views&color=0e75b6&style=flat" alt="shashinialuthge" /> </p>
+<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashini sithara" height="30" width="40" /></a>

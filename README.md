@@ -8,7 +8,7 @@
 <br/>
 
 <div >
-  <div align="left" >
+  <div align="center" >
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
     <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>

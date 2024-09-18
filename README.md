@@ -10,7 +10,6 @@
 <div >
   <div align="left" >
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
-    <p>🌱 I’m currently learning <strong>React.js</strong></p>
     <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>

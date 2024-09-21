@@ -7,7 +7,7 @@
 
 <br/>
 
-<div >
+
   <div align="center" >
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
     <p>👯 I’m looking to collaborate on <strong>Web and Mobile app development projects</strong></p>
@@ -17,7 +17,7 @@
 <!--   <div align="center" >
   <img width="400" height="300" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" alt="Coding Girl GIF">
 </div> -->
-</div>
+
 
 <hr/>
 

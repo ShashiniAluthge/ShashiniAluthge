@@ -14,9 +14,9 @@
     <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
     <p>⚡ Fun fact: <strong>I love sharing interesting posts on Facebook</strong></p>
   </div>
-  <div align="center">
+<!--   <div align="center">
     <img width="800" height="400" src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=ueJx2hLXSJ3fP0gOjO2tOwJzMMLyi1cwpea2zwxoI_g" alt="Coding Girl GIF">
-  </div>
+  </div> -->
 
 
 

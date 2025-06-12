@@ -10,7 +10,7 @@
 
   <div align="center">
     <p>👀 I’m interested in Mobile and Web App Development and UI/UX designing</p>
-    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/">LinkedIn</a></p>
+    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/shashini-aluthge-64545b30b/">LinkedIn</a></p>
   </div>
 <!--   <div align="center">
     <img width="800" height="400" src="https://media.licdn.com/dms/image/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=ueJx2hLXSJ3fP0gOjO2tOwJzMMLyi1cwpea2zwxoI_g" alt="Coding Girl GIF">
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shashini-sithara-64545b30b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashini sithara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shashini-aluthge-64545b30b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashini sithara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
